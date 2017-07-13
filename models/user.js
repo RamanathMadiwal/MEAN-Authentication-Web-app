@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const bcrypt = require('bcryptjs');
 const config = require('../config/database');
-
+mongoose.Promise = global.Promise;
 // User Schema
 const UserSchema = mongoose.Schema({
   name: {

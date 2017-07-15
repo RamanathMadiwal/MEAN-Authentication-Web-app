@@ -6,6 +6,8 @@
 Application can be found live in <a href="https://hidden-waters-33202.herokuapp.com/">Launch application</a>
 Complete MEAN stack application with authentication using json web tokens
 
+![alt tag](https://user-images.githubusercontent.com/25265882/28238178-bf9f335a-696b-11e7-8f46-58e2b7bc9d81.png "Home Page")
+
 ### Version
 1.0.0
 

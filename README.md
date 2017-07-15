@@ -1,8 +1,9 @@
 # MEAN authentication Web application
 
-# This was created as part of youtube series by brad traversy .All credits and license goes to Brad.
+# This was created as part of youtube series by brad traversy from traversy Media .All credits and license goes to Brad.
 <a href="https://www.youtube.com/playlist?list=PLillGF-RfqbZMNtaOXJQiDebNXjVapWPZ">Playlist for this application in youtube</a>
 
+Application can be found live in <a href="https://hidden-waters-33202.herokuapp.com/">Launch application</a>
 Complete MEAN stack application with authentication using json web tokens
 
 ### Version
